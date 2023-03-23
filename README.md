@@ -6,9 +6,11 @@ The program implements a book manager. One can:
 
 In order to select all the users or the books, type none in the search line and press the button "search"
 
-1.  ![alt image](./resources/image1.png)
-2. ![alt image](./resources/image2.png)
-3. ![alt image](./resources/image3.png)
-4. ![alt image](./resources/image4.png)
-5. ![alt image](./resources/image5.png)
+Here are some illustrations of the program:
+
+![alt image](./resources/image1.png)
+![alt image](./resources/image2.png)
+![alt image](./resources/image3.png)
+![alt image](./resources/image4.png)
+![alt image](./resources/image5.png)
 
